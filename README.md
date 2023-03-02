@@ -1,7 +1,7 @@
 # Hey folks! 👋
 My name is Pratik.
 
-- 💼 I'm an iOS developer, currently working at [BosLeo](https://www.bosleo.com/)
+- 💼 I'm an iOS developer, currently looking for job
 - 🌱 Focus on user experience of mobile App
 - 🔭 I’m currently working on SwiftUI/Flutter/KMM
 - 💬 Ask me about programming, happy to help.
